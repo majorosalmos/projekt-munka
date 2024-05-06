@@ -1,0 +1,65 @@
+body{
+  background-color: azure;
+}
+
+
+.cic{
+  height: 20%;
+  width: 20%;
+  margin: 1cm;
+  
+  }
+  
+
+.cic:hover{
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+
+.elso{
+margin-left: 0.5cm;
+color: aqua;
+}
+
+.mas{
+  margin-left: 30.5cm;
+  color: aqua;
+  margin-top: 2cm;
+  }
+  
+
+
+
+
+
+.vertical-menu {
+    width: 200px;
+   margin-left: 15cm;
+    margin-top: -11cm;
+  }
+  
+  .vertical-menu a {
+    background-color: #eee; 
+    color: black; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none; 
+  }
+  
+  
+  .vertical-menu a.active {
+    background-color: #04AA6D; 
+    color: white;
+  }
+
+
+
+  .avatar {
+    border-radius: 50%;
+    height: 30%;
+    width: 30%;
+    margin-top: -25cm;
+    margin-left: 26cm;
+  }
+  
